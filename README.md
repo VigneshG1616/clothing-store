@@ -1,2 +1,2 @@
-# clothing-store
+# clothing-store webapp
 A react e-commerce app
